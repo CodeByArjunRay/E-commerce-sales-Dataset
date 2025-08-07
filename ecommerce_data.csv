@@ -1,0 +1,1001 @@
+customer_id,gender,age,product_category,purchase_date,order_value,quantity,payment_method
+1102,Male,27,Toys,2023-05-08,98.38,1,Credit Card
+1435,Male,33,Fitness,2023-03-08,66.28,1,Debit Card
+1860,Male,24,Home Decor,2023-01-04,117.33,4,Credit Card
+1270,Female,34,,2023-06-02,62.84,4,PayPal
+1106,Male,40,Home Decor,2023-02-16,64.17,2,Credit Card
+1071,Female,43,Fashion,2023-02-07,-29.14,2,Debit Card
+1700,Male,38,Home Decor,2023-05-23,87.27,3,Cash on Delivery
+1020,Female,39,Fashion,2023-01-21,,3,PayPal
+1614,Female,24,Beauty,2023-02-26,58.48,4,Debit Card
+1121,Male,31,Books,2023-04-27,44.21,1,PayPal
+1466,Male,32,Fashion,2023-02-15,64.01,3,PayPal
+1214,Male,24,Groceries,2023-05-22,88.32,4,Debit Card
+1330,Male,26,Fashion,2023-05-25,75.33,3,Debit Card
+1458,Female,25,Electronics,2023-02-08,96.29,1,Cash on Delivery
+1087,Male,40,Fashion,2023-05-17,112.97,4,PayPal
+1372,Male,46,Electronics,2023-04-09,63.94,1,PayPal
+1099,Female,35,Fitness,2023-03-18,60.64,4,Debit Card
+1871,Male,48,Beauty,2023-04-25,103.73,3,Credit Card
+1663,Male,47,Electronics,2023-05-14,106.11,2,Debit Card
+1130,Male,56,Books,2023-05-31,97.22,3,PayPal
+1661,Male,52,Toys,2023-04-01,46.43,3,Debit Card
+1308,Male,35,Beauty,2023-04-08,87.68,2,Cash on Delivery
+1769,Female,59,Electronics,2023-04-30,,2,Credit Card
+1343,Male,56,Beauty,2023-02-15,106.58,4,Debit Card
+1491,Male,34,Groceries,2023-02-07,57.81,4,Cash on Delivery
+1413,Male,31,Beauty,2023-05-22,25.0,1,PayPal
+1805,Male,48,Beauty,2023-04-10,95.71,1,Debit Card
+1385,Male,41,Fitness,2023-03-13,-1.75,3,PayPal
+1191,Female,52,Books,2023-02-04,53.05,2,Cash on Delivery
+1955,Male,61,Home Decor,2023-05-27,44.3,1,PayPal
+1276,Female,62,Home Decor,2023-01-30,44.1,3,Cash on Delivery
+1160,Female,51,Electronics,2023-03-19,52.53,2,Cash on Delivery
+1459,Male,20,Beauty,2023-03-25,111.52,4,Cash on Delivery
+1313,Male,54,Electronics,2023-04-23,,3,Debit Card
+1021,Male,60,Fitness,2023-01-25,67.45,4,PayPal
+1252,Male,57,Fitness,2023-06-17,109.01,1,PayPal
+1747,Female,43,Fashion,2023-03-29,43.13,1,Credit Card
+1856,Male,40,Groceries,2023-01-14,39.05,2,Credit Card
+1560,Male,61,Fitness,2023-06-03,100.91,3,Credit Card
+1474,Male,56,Fashion,2023-04-12,92.39,4,Credit Card
+1058,Male,32,Books,2023-05-30,61.19,2,PayPal
+1510,Male,21,Electronics,2023-06-25,40.94,1,Cash on Delivery
+1681,Male,46,Toys,2023-03-24,118.79,1,Cash on Delivery
+1475,Female,39,Books,2023-04-20,23.4,3,Debit Card
+1699,Female,42,Fitness,2023-06-28,57.05,4,Cash on Delivery
+1975,Male,30,Books,2023-05-11,81.86,3,PayPal
+1782,Male,35,Books,2023-06-19,129.06,4,PayPal
+1189,Male,50,,2023-01-19,86.49,4,PayPal
+1957,Female,33,Groceries,2023-01-28,89.41,3,Debit Card
+1686,Male,62,Groceries,2023-06-22,57.92,2,Credit Card
+1957,Female,59,Books,2023-03-12,92.05,3,Cash on Delivery
+1562,Male,61,Fitness,2023-03-04,78.16,3,PayPal
+1875,Male,19,Toys,2023-03-14,27.35,1,PayPal
+1566,Male,52,Beauty,2023-05-04,98.79,1,Credit Card
+1243,Male,59,Books,2023-04-29,104.11,3,PayPal
+1831,Female,51,Fashion,2023-05-01,99.1,3,Cash on Delivery
+1504,Female,47,Fitness,2023-01-19,76.0,1,Debit Card
+1130,Male,30,Books,2023-06-24,46.31,4,PayPal
+1484,Male,30,Toys,2023-05-22,5.72,3,Cash on Delivery
+1818,Female,35,Beauty,2023-04-30,79.71,2,PayPal
+1646,Female,49,Groceries,2023-06-15,,2,Credit Card
+1020,Female,49,Fitness,2023-03-02,104.87,2,PayPal
+1840,Female,52,Home Decor,2023-06-13,99.48,3,PayPal
+1166,Male,56,Beauty,2023-06-17,72.77,4,Debit Card
+1273,Female,63,Fashion,2023-01-30,107.62,4,Credit Card
+1387,Male,46,Books,2023-01-09,102.72,1,Credit Card
+1600,Female,46,Toys,2023-03-05,62.32,3,Debit Card
+1315,Female,61,,2023-06-10,95.3,4,PayPal
+1013,Female,33,Toys,2023-04-30,58.92,3,Cash on Delivery
+1241,Female,61,Home Decor,2023-02-21,91.2,1,Credit Card
+1776,Female,64,Fitness,2023-03-30,36.03,1,Credit Card
+1345,Male,27,Home Decor,2023-05-22,38.33,1,PayPal
+1564,Male,47,Fashion,2023-02-22,106.75,2,PayPal
+1897,Female,42,Fashion,2023-03-19,103.13,3,Credit Card
+1339,Female,56,Electronics,2023-02-10,94.01,1,PayPal
+1091,Male,37,Fashion,2023-03-09,77.64,3,Cash on Delivery
+1366,Female,22,Beauty,2023-01-08,3.26,2,Credit Card
+1955,Female,18,Home Decor,2023-01-02,72.75,2,Cash on Delivery
+1454,Male,47,Fashion,2023-04-15,88.63,1,Cash on Delivery
+1427,Female,20,Fitness,2023-05-05,58.96,1,PayPal
+1508,Female,62,Toys,2023-04-20,53.63,4,Cash on Delivery
+1775,Male,31,,2023-03-27,118.33,3,PayPal
+1942,Male,47,Toys,2023-06-18,73.19,1,Debit Card
+1034,Male,21,Electronics,2023-04-30,88.64,4,PayPal
+1205,Female,35,Toys,2023-05-07,98.22,3,Cash on Delivery
+1080,Male,54,Home Decor,2023-01-16,44.96,1,Debit Card
+1931,Male,42,Electronics,2023-03-03,80.8,4,PayPal
+1561,Male,18,,2023-04-23,114.59,4,Cash on Delivery
+1871,Male,63,Fitness,2023-06-25,129.58,3,Credit Card
+1387,Male,32,Electronics,2023-06-07,76.2,4,Credit Card
+1001,Male,26,Books,2023-01-12,67.86,3,PayPal
+1389,Female,32,Beauty,2023-02-04,83.07,3,PayPal
+1565,Female,41,Beauty,2023-01-11,82.31,3,Credit Card
+1105,Male,21,,2023-03-05,116.6,2,Cash on Delivery
+1771,Male,29,Toys,2023-02-19,45.11,4,Cash on Delivery
+1821,Male,54,Groceries,2023-05-29,66.6,3,Cash on Delivery
+1476,Female,54,Groceries,2023-03-10,41.49,1,PayPal
+1702,Female,60,Books,2023-02-17,44.64,2,Debit Card
+1401,Female,23,Electronics,2023-01-20,86.3,2,Debit Card
+1729,Female,56,Books,2023-04-11,99.3,4,Debit Card
+1555,Female,63,Books,2023-06-21,55.52,3,Debit Card
+1161,Female,41,Toys,2023-06-10,98.16,4,Debit Card
+1201,Female,28,Groceries,2023-05-17,108.35,2,PayPal
+1957,Female,30,Electronics,2023-03-09,133.04,3,PayPal
+1995,Female,51,Fitness,2023-02-04,77.09,1,Debit Card
+1269,Male,42,Toys,2023-03-06,55.81,3,PayPal
+1862,Male,24,Books,2023-01-08,44.93,2,PayPal
+1815,Male,21,Books,2023-02-14,41.95,1,Debit Card
+1270,Male,25,Fitness,2023-03-28,112.49,3,Cash on Delivery
+1455,Female,37,Books,2023-06-24,,1,PayPal
+1461,Female,46,Books,2023-06-17,111.53,1,Cash on Delivery
+1726,Male,62,Books,2023-03-17,48.95,2,PayPal
+1251,Female,63,Beauty,2023-03-17,54.44,1,PayPal
+1701,Male,27,Toys,2023-06-23,70.45,4,Debit Card
+1295,Female,60,Fashion,2023-02-16,53.89,2,PayPal
+1724,Male,51,Toys,2023-01-15,102.96,4,Credit Card
+1719,Female,43,Fitness,2023-04-15,129.4,1,Credit Card
+1748,Female,58,Books,2023-05-27,55.28,4,Debit Card
+1337,Male,20,Toys,2023-01-26,62.03,3,Cash on Delivery
+1878,Female,23,Beauty,2023-02-21,70.1,1,Cash on Delivery
+1052,Male,22,Groceries,2023-04-03,91.23,3,Cash on Delivery
+1791,Male,22,Fitness,2023-05-30,70.4,4,Credit Card
+1921,Male,64,Home Decor,2023-01-21,116.62,3,Cash on Delivery
+1216,Male,40,Toys,2023-02-20,109.4,1,Cash on Delivery
+1763,Female,26,Home Decor,2023-02-07,39.44,3,Debit Card
+1187,Female,52,Books,2023-01-20,90.63,4,Cash on Delivery
+1379,Female,37,Beauty,2023-06-06,120.61,4,Credit Card
+1492,Male,59,Beauty,2023-06-28,60.16,4,Credit Card
+1040,Female,52,Toys,2023-05-12,66.17,1,Credit Card
+1156,Male,35,Fitness,2023-02-24,59.16,4,Debit Card
+1014,Female,34,Fitness,2023-04-02,59.79,1,Debit Card
+1812,Female,41,Beauty,2023-01-28,24.95,3,PayPal
+1064,Female,20,Fitness,2023-01-04,35.15,4,Cash on Delivery
+1856,Male,49,Beauty,2023-05-30,,3,Debit Card
+1838,Female,52,Toys,2023-03-17,120.41,2,Credit Card
+1520,Female,55,Fashion,2023-06-22,,3,Credit Card
+1343,Male,30,Beauty,2023-03-08,55.72,2,Debit Card
+1128,Female,64,Home Decor,2023-03-27,126.05,3,Debit Card
+1647,Male,42,Fitness,2023-06-11,41.75,1,Debit Card
+1471,Female,26,Beauty,2023-04-01,25.16,3,PayPal
+1062,Male,21,Beauty,2023-04-15,50.14,1,Credit Card
+1138,Male,31,Toys,2023-01-01,,1,PayPal
+1498,Female,54,Fitness,2023-03-13,22.58,4,PayPal
+1592,Male,51,Fashion,2023-03-28,71.16,1,Cash on Delivery
+1391,Male,28,Toys,2023-06-15,103.45,2,Credit Card
+1674,Male,58,Fashion,2023-01-06,36.42,4,Credit Card
+1418,Male,20,Groceries,2023-06-02,77.63,4,Debit Card
+1288,Male,45,,2023-05-25,86.88,3,Debit Card
+1378,Male,46,Fitness,2023-03-02,72.5,1,Cash on Delivery
+1772,Female,26,Electronics,2023-01-12,80.57,1,PayPal
+1489,Male,20,Fitness,2023-01-06,80.92,2,Debit Card
+1230,Male,42,Fitness,2023-01-27,50.62,3,Debit Card
+1040,Female,51,Fashion,2023-05-16,119.96,3,Credit Card
+1027,Female,29,Fashion,2023-05-04,112.43,4,Credit Card
+1134,Female,59,Fitness,2023-04-16,110.7,4,Debit Card
+1200,Female,26,Fitness,2023-04-03,105.41,4,Credit Card
+1839,Female,32,,2023-04-19,27.75,2,Cash on Delivery
+1779,Female,57,Fashion,2023-04-09,102.78,2,Debit Card
+1929,Female,42,Fitness,2023-06-17,94.67,4,Credit Card
+1032,Male,22,Fitness,2023-05-22,28.9,3,Cash on Delivery
+1047,Male,28,Groceries,2023-02-04,68.55,2,Credit Card
+1502,Female,51,Books,2023-06-25,83.3,3,Credit Card
+1406,Male,41,Electronics,2023-03-25,124.93,3,Credit Card
+1573,Male,32,Home Decor,2023-02-25,96.74,1,Debit Card
+1727,Male,55,,2023-06-26,49.06,4,PayPal
+1804,Female,25,Books,2023-05-21,125.86,1,Credit Card
+1098,Female,22,Home Decor,2023-02-18,76.31,4,Cash on Delivery
+1683,Male,43,Toys,2023-02-15,67.32,4,Debit Card
+1871,Female,35,Fitness,2023-04-23,65.19,3,Debit Card
+1725,Male,23,Books,2023-05-16,26.29,4,Cash on Delivery
+1986,Male,54,Groceries,2023-02-12,71.71,3,Credit Card
+1546,Male,30,Toys,2023-05-28,89.92,3,PayPal
+1960,Male,45,Fitness,2023-05-04,63.44,4,Credit Card
+1738,Female,22,Fashion,2023-04-07,87.61,3,Cash on Delivery
+1612,Female,30,Beauty,2023-03-31,49.07,3,Debit Card
+1942,Female,34,Books,2023-02-08,70.77,3,PayPal
+1461,Male,57,Fashion,2023-03-26,84.5,2,Debit Card
+1642,Female,62,Books,2023-06-26,80.69,3,Cash on Delivery
+1768,Male,49,Groceries,2023-03-03,26.84,2,Credit Card
+1004,Female,46,Books,2023-04-16,61.83,2,PayPal
+1217,Male,20,Fashion,2023-04-17,125.32,3,Debit Card
+1502,Male,57,Groceries,2023-02-23,60.23,3,Debit Card
+1766,Male,51,Home Decor,2023-05-06,75.47,2,Debit Card
+1397,Female,57,Electronics,2023-01-09,72.4,2,Credit Card
+1870,Female,44,Fitness,2023-03-29,122.05,3,PayPal
+1794,Female,30,Books,2023-02-06,113.71,3,Credit Card
+1392,Female,62,Fitness,2023-02-18,99.23,4,Credit Card
+1206,Male,50,Beauty,2023-02-10,45.8,2,Credit Card
+1014,Female,23,Fashion,2023-01-17,85.78,2,Cash on Delivery
+1857,Female,41,Fitness,2023-03-29,92.04,4,Cash on Delivery
+1553,Male,36,Fashion,2023-01-21,54.04,2,Cash on Delivery
+1891,Male,33,Fitness,2023-02-20,48.88,1,PayPal
+1460,Male,57,Electronics,2023-02-28,126.15,2,Credit Card
+1690,Female,45,Electronics,2023-06-16,65.98,4,Credit Card
+1574,Male,50,Groceries,2023-02-10,123.45,1,Cash on Delivery
+1863,Male,58,Electronics,2023-02-08,104.91,3,Credit Card
+1742,Male,30,Groceries,2023-05-21,87.24,4,Credit Card
+1240,Female,60,Electronics,2023-01-11,88.58,4,Debit Card
+1563,Male,62,Electronics,2023-05-27,32.99,3,Credit Card
+1095,Female,42,Electronics,2023-05-19,81.2,4,Debit Card
+1899,Female,59,Fashion,2023-03-18,117.51,2,Credit Card
+1733,Male,53,Books,2023-05-07,95.44,3,PayPal
+1484,Male,44,Groceries,2023-02-15,79.63,4,Cash on Delivery
+1406,Female,55,Fitness,2023-02-14,126.36,3,Debit Card
+1230,Male,24,Electronics,2023-01-01,69.45,3,Cash on Delivery
+1748,Male,22,Fashion,2023-06-17,56.41,3,Debit Card
+1654,Female,60,Fashion,2023-04-18,79.61,1,Debit Card
+1170,Female,62,Fashion,2023-01-19,97.99,4,Debit Card
+1540,Male,48,Groceries,2023-03-17,23.47,1,PayPal
+1035,Female,40,Books,2023-03-13,83.55,4,Credit Card
+1524,Male,59,Groceries,2023-04-19,99.31,2,Debit Card
+1159,Male,27,Fitness,2023-01-12,66.91,2,PayPal
+1838,Male,49,Books,2023-06-10,108.21,2,Debit Card
+1698,Female,60,Home Decor,2023-02-14,94.24,4,Credit Card
+1242,Male,47,Toys,2023-03-31,139.24,3,Debit Card
+1085,Male,56,Fashion,2023-04-13,52.48,3,PayPal
+1795,Male,48,Groceries,2023-01-08,99.92,1,Credit Card
+1577,Female,35,Home Decor,2023-06-02,44.48,1,PayPal
+1681,Female,53,Beauty,2023-04-01,26.54,2,Credit Card
+1556,Female,19,Groceries,2023-06-23,13.93,1,Credit Card
+1573,Female,31,Electronics,2023-03-28,91.15,4,Cash on Delivery
+1952,Female,30,Toys,2023-06-07,80.53,4,Cash on Delivery
+1645,Male,46,Electronics,2023-06-24,60.63,1,Cash on Delivery
+1795,Female,29,Books,2023-06-26,21.79,1,Credit Card
+1027,Female,56,Toys,2023-06-24,54.29,1,Debit Card
+1619,Female,19,Groceries,2023-03-25,75.12,1,PayPal
+1555,Male,49,Fitness,2023-03-23,98.8,2,PayPal
+1339,Female,30,Home Decor,2023-05-26,74.5,2,PayPal
+1797,Female,63,Fitness,2023-03-09,82.56,1,Cash on Delivery
+1957,Male,44,Groceries,2023-06-10,63.72,4,Credit Card
+1330,Female,58,Books,2023-05-07,127.48,2,Cash on Delivery
+1639,Male,34,Electronics,2023-06-13,44.45,4,Debit Card
+1505,Male,57,Toys,2023-03-23,54.02,3,Credit Card
+1347,Male,48,Fitness,2023-05-27,,4,PayPal
+1472,Male,51,Groceries,2023-06-05,91.28,1,Cash on Delivery
+1230,Male,41,Fitness,2023-06-17,43.83,3,Cash on Delivery
+1189,Female,62,Groceries,2023-03-25,79.07,2,Debit Card
+1224,Male,52,,2023-04-23,79.95,2,Debit Card
+1384,Male,23,Toys,2023-03-17,54.17,3,Cash on Delivery
+1376,Female,36,Home Decor,2023-05-02,84.9,4,Debit Card
+1282,Male,47,Electronics,2023-05-23,44.77,2,PayPal
+1957,Female,24,Fitness,2023-02-10,41.49,1,Debit Card
+1632,Female,27,Home Decor,2023-06-16,77.99,3,Debit Card
+1627,Female,58,Groceries,2023-01-02,,1,Cash on Delivery
+1972,Male,49,Home Decor,2023-01-29,10.66,3,Cash on Delivery
+1744,Male,51,Groceries,2023-04-15,90.98,2,Credit Card
+1258,Male,45,,2023-02-20,106.47,4,Credit Card
+1358,Female,32,Fitness,2023-03-16,61.0,3,Cash on Delivery
+1709,Male,47,Books,2023-01-10,54.96,3,Debit Card
+1455,Male,54,Fitness,2023-05-22,105.17,1,Debit Card
+1410,Male,46,Groceries,2023-02-20,40.63,2,Credit Card
+1648,Female,39,Fashion,2023-04-28,34.1,1,Credit Card
+1317,Female,21,Toys,2023-05-01,96.23,2,Credit Card
+1676,Male,37,Beauty,2023-02-08,75.27,1,PayPal
+1224,Male,49,Books,2023-01-28,106.95,3,PayPal
+1818,Male,53,Home Decor,2023-01-03,10.79,1,Credit Card
+1233,Male,21,Books,2023-03-25,32.98,4,Debit Card
+1683,Female,44,Toys,2023-06-04,75.43,2,Credit Card
+1663,Female,34,Home Decor,2023-04-27,87.53,2,PayPal
+1974,Female,29,Toys,2023-01-02,100.41,3,Debit Card
+1826,Female,39,Home Decor,2023-04-03,80.24,2,PayPal
+1373,Male,34,Books,2023-06-15,79.94,4,Debit Card
+1671,Male,27,Home Decor,2023-05-11,63.32,1,PayPal
+1607,Male,18,Home Decor,2023-05-24,122.73,3,Debit Card
+1471,Female,39,Fashion,2023-04-04,41.91,4,Debit Card
+1232,Male,43,Fitness,2023-02-09,85.77,2,Debit Card
+1691,Female,35,Fitness,2023-01-02,45.37,2,Debit Card
+1112,Female,31,Beauty,2023-03-22,91.04,4,Cash on Delivery
+1829,Male,64,Beauty,2023-06-18,43.89,1,PayPal
+1496,Male,46,Groceries,2023-01-12,,1,PayPal
+1441,Male,29,Groceries,2023-06-12,78.36,3,Cash on Delivery
+1563,Female,53,Groceries,2023-03-06,127.34,2,Debit Card
+1267,Male,52,Fashion,2023-02-24,66.57,4,Debit Card
+1509,Female,29,Beauty,2023-02-14,87.75,1,PayPal
+1806,Male,24,Toys,2023-04-11,51.61,3,Cash on Delivery
+1385,Female,46,Groceries,2023-03-03,66.36,2,Debit Card
+1386,Female,28,Groceries,2023-02-18,78.17,2,Debit Card
+1112,Male,50,Books,2023-05-07,29.18,3,Debit Card
+1612,Female,23,Electronics,2023-06-02,32.47,3,Credit Card
+1624,Female,64,Toys,2023-01-23,93.0,1,Cash on Delivery
+1951,Male,32,Groceries,2023-06-01,70.62,4,Debit Card
+1080,Female,49,Groceries,2023-02-07,57.21,2,Credit Card
+1698,Male,28,Groceries,2023-01-28,52.89,4,Cash on Delivery
+1112,Female,40,Electronics,2023-01-21,54.05,2,Debit Card
+1001,Male,43,Electronics,2023-04-17,78.38,2,PayPal
+1641,Male,51,Fashion,2023-05-26,88.35,4,Credit Card
+1219,Female,63,Toys,2023-06-13,12.24,3,Credit Card
+1565,Female,51,Fashion,2023-04-09,117.39,1,Debit Card
+1854,Female,46,Home Decor,2023-06-22,115.25,2,Debit Card
+1996,Female,21,Electronics,2023-04-29,5.08,3,Credit Card
+1735,Female,34,Books,2023-03-14,107.58,2,PayPal
+1224,Male,52,Beauty,2023-05-02,106.66,1,PayPal
+1384,Female,30,Books,2023-01-30,75.01,2,Cash on Delivery
+1402,Male,58,Beauty,2023-04-18,36.08,1,Debit Card
+1637,Male,56,Electronics,2023-04-08,,1,PayPal
+1129,Female,32,Electronics,2023-02-01,67.76,2,Cash on Delivery
+1052,Male,46,Electronics,2023-06-05,91.47,2,PayPal
+1683,Male,46,Fashion,2023-06-21,141.58,1,Debit Card
+1729,Male,28,Toys,2023-03-20,82.56,3,Cash on Delivery
+1671,Male,49,Beauty,2023-02-10,47.49,4,Cash on Delivery
+1709,Female,19,Toys,2023-03-04,64.93,1,Cash on Delivery
+1415,Male,64,Fashion,2023-01-23,51.32,2,PayPal
+1246,Female,31,Fashion,2023-04-14,,2,Debit Card
+1835,Female,37,Fitness,2023-03-16,,3,Cash on Delivery
+1438,Male,39,Books,2023-02-17,60.81,4,Credit Card
+1202,Female,28,Books,2023-06-09,36.47,1,Debit Card
+1183,Female,44,Home Decor,2023-02-26,71.04,1,Credit Card
+1122,Female,20,Groceries,2023-04-28,80.3,4,Credit Card
+1400,Male,34,Fashion,2023-04-10,-5.54,1,Cash on Delivery
+1766,Female,61,Beauty,2023-05-04,82.79,4,Cash on Delivery
+1293,Female,45,Fitness,2023-06-10,73.63,2,PayPal
+1279,Female,46,Fitness,2023-06-01,52.05,4,PayPal
+1836,Male,38,Groceries,2023-06-16,135.86,1,PayPal
+1883,Female,64,Toys,2023-02-03,103.75,4,Debit Card
+1609,Male,33,Groceries,2023-06-05,42.11,3,PayPal
+1197,Male,54,Groceries,2023-06-14,100.15,2,Credit Card
+1981,Male,37,Groceries,2023-01-07,112.33,2,PayPal
+1906,Male,23,Books,2023-06-14,78.96,4,Cash on Delivery
+1510,Male,36,Fashion,2023-02-25,85.84,1,PayPal
+1751,Male,22,Home Decor,2023-03-06,85.15,3,Debit Card
+1143,Female,20,Fashion,2023-02-16,12.43,2,Debit Card
+1608,Male,18,Toys,2023-05-28,69.39,2,Credit Card
+1200,Female,55,Electronics,2023-01-19,67.83,1,Debit Card
+1123,Female,32,Groceries,2023-06-06,117.9,1,PayPal
+1186,Male,51,Fashion,2023-05-26,85.01,3,Cash on Delivery
+1325,Female,52,Toys,2023-06-12,66.07,4,Debit Card
+1463,Female,42,,2023-06-20,72.3,1,Credit Card
+1348,Female,41,Electronics,2023-05-06,105.7,4,PayPal
+1770,Female,29,Groceries,2023-05-19,69.46,3,Credit Card
+1659,Male,35,Home Decor,2023-02-18,54.05,4,Debit Card
+1763,Female,32,Beauty,2023-04-23,66.73,2,Debit Card
+1954,Male,61,Books,2023-02-07,103.22,4,Credit Card
+1931,Female,33,Fashion,2023-03-05,89.88,3,PayPal
+1402,Female,44,Electronics,2023-03-10,76.33,3,Debit Card
+1345,Male,25,Fashion,2023-05-16,80.75,3,Cash on Delivery
+1962,Female,63,Beauty,2023-06-11,58.21,4,Debit Card
+1510,Female,42,Books,2023-06-25,69.18,2,PayPal
+1146,Female,34,Beauty,2023-04-26,55.1,1,Debit Card
+1147,Male,46,Books,2023-03-06,66.16,2,Credit Card
+1863,Female,25,Fitness,2023-01-31,115.39,4,Debit Card
+1710,Male,32,Books,2023-05-12,42.66,4,Debit Card
+1819,Female,44,Groceries,2023-04-23,54.34,1,PayPal
+1488,Male,63,Home Decor,2023-04-19,37.37,4,Credit Card
+1928,Male,24,Beauty,2023-06-27,30.87,3,PayPal
+1935,Female,20,Electronics,2023-03-10,,3,Debit Card
+1639,Female,46,Groceries,2023-06-07,56.47,3,Cash on Delivery
+1550,Male,61,Fitness,2023-04-30,127.85,3,Debit Card
+1337,Male,41,Home Decor,2023-03-29,66.51,3,PayPal
+1871,Female,20,Fashion,2023-03-08,113.68,4,Cash on Delivery
+1640,Male,37,Groceries,2023-03-16,104.04,1,PayPal
+1778,Female,63,Beauty,2023-02-14,68.73,1,PayPal
+1987,Female,32,Toys,2023-01-04,138.3,3,Credit Card
+1952,Female,42,Toys,2023-06-03,83.06,4,Cash on Delivery
+1472,Female,47,Electronics,2023-06-04,120.39,2,Debit Card
+1945,Male,31,Books,2023-06-23,116.9,2,PayPal
+1150,Female,24,Electronics,2023-04-17,87.44,4,Debit Card
+1414,Male,34,Toys,2023-02-20,97.53,3,Credit Card
+1989,Female,61,Fashion,2023-02-19,93.72,1,Credit Card
+1297,Male,37,Fitness,2023-01-06,40.67,4,Cash on Delivery
+1610,Female,53,Fitness,2023-02-28,76.72,2,Credit Card
+1262,Male,26,Beauty,2023-05-05,107.23,2,Credit Card
+1763,Male,55,Fitness,2023-05-23,120.79,2,Debit Card
+1143,Female,39,Beauty,2023-01-30,53.38,3,Credit Card
+1345,Female,19,Groceries,2023-06-19,90.86,2,Credit Card
+1623,Female,41,Beauty,2023-05-02,79.53,4,PayPal
+1571,Female,25,Groceries,2023-05-05,71.46,4,Credit Card
+1880,Male,28,Beauty,2023-02-06,85.68,2,PayPal
+1001,Female,30,Toys,2023-06-19,81.54,4,Credit Card
+1896,Male,34,Toys,2023-05-04,91.24,2,Credit Card
+1303,Male,25,Books,2023-04-11,118.25,2,Cash on Delivery
+1253,Female,38,Groceries,2023-02-04,98.52,1,Cash on Delivery
+1651,Male,35,Home Decor,2023-03-28,84.32,3,PayPal
+1452,Male,47,Groceries,2023-05-14,130.94,3,Credit Card
+1036,Male,35,Beauty,2023-01-18,108.3,1,Debit Card
+1159,Male,63,Beauty,2023-04-23,72.23,1,Cash on Delivery
+1008,Female,64,Home Decor,2023-01-29,38.49,3,Debit Card
+1232,Female,48,Electronics,2023-03-18,45.37,2,Cash on Delivery
+1098,Female,55,Beauty,2023-02-28,103.0,2,Cash on Delivery
+1658,Female,49,Books,2023-06-24,56.09,3,Credit Card
+1815,Male,28,Fitness,2023-05-06,44.76,2,Cash on Delivery
+1207,Male,62,Fitness,2023-05-25,52.26,1,Debit Card
+1130,Female,42,,2023-04-19,54.38,2,Cash on Delivery
+1403,Female,50,Fashion,2023-01-22,100.52,2,PayPal
+1151,Female,55,Fitness,2023-03-09,70.3,4,Credit Card
+1053,Male,58,Fitness,2023-03-10,33.83,4,Credit Card
+1119,Female,25,Toys,2023-06-14,75.93,4,PayPal
+1672,Female,28,Books,2023-02-18,81.67,2,PayPal
+1919,Female,39,Home Decor,2023-05-21,60.62,3,PayPal
+1627,Male,41,Fashion,2023-06-11,109.68,1,Cash on Delivery
+1586,Male,58,Toys,2023-04-19,62.37,2,Credit Card
+1624,Male,34,Toys,2023-03-27,108.25,3,PayPal
+1967,Male,29,Home Decor,2023-02-22,92.9,2,Cash on Delivery
+1419,Male,63,Toys,2023-05-03,102.8,1,PayPal
+1421,Male,49,Groceries,2023-03-28,42.04,2,Debit Card
+1103,Male,32,Books,2023-06-28,77.95,1,Debit Card
+1851,Male,33,Fitness,2023-05-11,73.42,2,Credit Card
+1253,Female,39,Beauty,2023-02-11,32.34,1,Cash on Delivery
+1226,Female,45,Home Decor,2023-04-08,108.15,2,Debit Card
+1111,Male,37,Fitness,2023-06-09,50.48,1,Debit Card
+1509,Male,50,Fitness,2023-04-19,56.71,4,Cash on Delivery
+1472,Female,27,Electronics,2023-02-20,44.6,2,PayPal
+1098,Male,57,Groceries,2023-03-26,96.04,2,Cash on Delivery
+1152,Male,49,Home Decor,2023-06-23,29.22,3,PayPal
+1860,Male,50,Toys,2023-05-07,93.54,3,Debit Card
+1913,Female,19,Beauty,2023-01-21,106.34,1,Debit Card
+1895,Female,50,Home Decor,2023-02-13,91.12,2,Debit Card
+1877,Female,50,Toys,2023-05-19,96.38,1,Credit Card
+1337,Female,58,Fitness,2023-04-13,97.79,4,Credit Card
+1705,Female,30,Beauty,2023-03-09,46.52,3,Credit Card
+1821,Male,47,Toys,2023-05-09,118.04,1,Cash on Delivery
+1162,Female,50,Books,2023-04-02,61.2,1,Debit Card
+1719,Male,30,Toys,2023-01-24,73.01,3,Debit Card
+1956,Male,43,Electronics,2023-05-05,65.02,2,Cash on Delivery
+1680,Female,39,Groceries,2023-05-21,89.75,1,Credit Card
+1995,Female,56,Fitness,2023-04-21,58.86,3,Cash on Delivery
+1160,Male,19,Toys,2023-04-08,77.01,2,Credit Card
+1579,Male,55,Groceries,2023-05-19,37.94,4,Debit Card
+1800,Male,56,Fashion,2023-06-28,109.94,3,PayPal
+1397,Female,43,Fashion,2023-01-17,95.12,1,Credit Card
+1276,Female,63,Groceries,2023-04-09,66.23,4,Debit Card
+1815,Female,32,Groceries,2023-03-23,60.93,2,Debit Card
+1915,Female,51,Electronics,2023-04-14,94.34,2,PayPal
+1503,Female,59,Books,2023-06-01,53.78,3,Debit Card
+1895,Male,61,Fitness,2023-01-19,78.76,3,Debit Card
+1391,Female,57,Home Decor,2023-06-14,109.84,3,Credit Card
+1134,Male,28,Electronics,2023-03-26,50.66,2,Credit Card
+1194,Male,20,,2023-01-08,86.06,4,PayPal
+1400,Male,23,Groceries,2023-01-28,84.47,2,PayPal
+1639,Female,26,Home Decor,2023-01-05,72.08,1,Debit Card
+1032,Female,23,Groceries,2023-05-25,59.89,2,Credit Card
+1687,Female,26,Groceries,2023-04-11,111.44,1,PayPal
+1459,Male,56,Fashion,2023-06-13,,4,PayPal
+1954,Male,48,Fashion,2023-04-28,20.64,3,Cash on Delivery
+1882,Male,49,Home Decor,2023-05-27,94.22,3,PayPal
+1469,Male,58,Electronics,2023-03-05,38.96,2,Debit Card
+1374,Male,29,Fashion,2023-04-01,95.76,3,Credit Card
+1021,Male,25,Fitness,2023-04-27,115.05,4,PayPal
+1749,Female,25,Groceries,2023-04-08,93.89,3,Cash on Delivery
+1669,Female,45,Beauty,2023-01-11,107.14,2,Credit Card
+1037,Female,37,Toys,2023-02-23,135.6,4,PayPal
+1229,Female,64,Home Decor,2023-06-22,104.0,1,Cash on Delivery
+1364,Male,24,Home Decor,2023-02-16,84.92,2,PayPal
+1562,Male,28,Fashion,2023-05-20,124.02,1,Credit Card
+1437,Female,37,Electronics,2023-05-29,127.64,4,Credit Card
+1775,Male,33,Groceries,2023-05-19,128.06,2,Credit Card
+1282,Female,21,Fitness,2023-01-05,60.24,2,Debit Card
+1026,Female,23,Electronics,2023-01-20,34.38,4,PayPal
+1225,Female,39,Books,2023-06-18,58.4,3,Debit Card
+1276,Male,43,Books,2023-02-15,96.11,2,Credit Card
+1797,Female,20,Beauty,2023-01-12,79.77,2,Cash on Delivery
+1608,Female,58,Fashion,2023-03-11,,1,PayPal
+1283,Female,59,Fashion,2023-01-17,91.81,3,Debit Card
+1878,Male,31,Fashion,2023-04-25,30.88,1,PayPal
+1959,Male,28,Beauty,2023-05-27,79.24,1,Cash on Delivery
+1480,Female,35,Books,2023-06-03,,3,Debit Card
+1452,Male,29,Electronics,2023-02-17,91.48,3,Credit Card
+1828,Male,40,Beauty,2023-04-18,95.75,4,Debit Card
+1815,Male,29,Beauty,2023-02-21,122.92,3,PayPal
+1658,Male,30,Electronics,2023-04-06,73.02,2,PayPal
+1515,Male,42,Fashion,2023-03-11,55.41,3,PayPal
+1546,Male,62,,2023-04-12,110.69,4,PayPal
+1191,Male,36,Electronics,2023-03-16,110.13,4,Credit Card
+1048,Male,63,Books,2023-06-10,91.75,4,Debit Card
+1511,Male,53,Home Decor,2023-05-31,70.19,3,Credit Card
+1016,Male,62,Groceries,2023-05-23,75.04,3,Credit Card
+1171,Female,25,Home Decor,2023-06-04,36.7,1,Credit Card
+1219,Female,46,Toys,2023-06-28,108.39,1,PayPal
+1157,Male,49,Toys,2023-03-23,107.33,2,PayPal
+1476,Female,61,Beauty,2023-04-02,35.65,1,PayPal
+1045,Female,35,Groceries,2023-06-28,101.03,2,Debit Card
+1372,Male,23,Home Decor,2023-06-24,87.12,4,Cash on Delivery
+1517,Male,35,Fitness,2023-01-04,44.34,1,PayPal
+1098,Male,36,Fashion,2023-05-15,38.82,3,Debit Card
+1891,Female,39,Books,2023-04-19,86.2,1,PayPal
+1744,Female,54,Toys,2023-06-12,63.07,2,PayPal
+1036,Male,49,Fitness,2023-02-17,129.6,1,Credit Card
+1279,Male,58,Books,2023-03-14,103.58,4,Credit Card
+1348,Male,20,Books,2023-03-13,89.21,3,Credit Card
+1496,Female,45,Fashion,2023-04-26,90.69,2,Debit Card
+1301,Female,27,Groceries,2023-06-22,114.93,3,Cash on Delivery
+1180,Female,52,Beauty,2023-03-22,100.4,3,Cash on Delivery
+1606,Female,46,Home Decor,2023-03-22,89.99,2,Debit Card
+1098,Male,32,Fashion,2023-04-23,45.59,3,PayPal
+1699,Male,50,Fitness,2023-04-06,166.86,3,Debit Card
+1992,Male,24,Beauty,2023-03-13,41.9,1,PayPal
+1115,Male,29,Fitness,2023-05-27,65.62,3,Debit Card
+1190,Female,47,Beauty,2023-03-04,25.36,3,Debit Card
+1252,Female,38,Groceries,2023-02-07,91.16,3,Debit Card
+1980,Male,48,Toys,2023-03-08,79.53,3,Cash on Delivery
+1927,Male,41,Fitness,2023-03-10,97.96,2,Credit Card
+1982,Female,37,Fashion,2023-01-13,22.83,4,Debit Card
+1160,Male,54,Beauty,2023-06-24,,1,Cash on Delivery
+1255,Female,21,Beauty,2023-01-31,50.78,3,Credit Card
+1322,Male,45,Books,2023-04-24,70.53,3,Credit Card
+1127,Male,61,Books,2023-01-22,102.95,2,Debit Card
+1017,Male,37,Electronics,2023-04-03,82.84,4,PayPal
+1792,Male,41,Fitness,2023-06-20,84.96,3,PayPal
+1734,Male,49,Books,2023-03-08,98.98,2,PayPal
+1565,Male,58,Electronics,2023-02-23,,1,Debit Card
+1569,Male,53,Toys,2023-05-18,64.77,1,PayPal
+1322,Female,51,Toys,2023-02-11,70.01,3,Cash on Delivery
+1871,Female,53,Books,2023-03-05,81.36,3,Cash on Delivery
+1685,Female,19,Fitness,2023-05-06,48.13,4,Cash on Delivery
+1791,Female,32,Beauty,2023-01-21,104.88,4,Cash on Delivery
+1625,Female,51,Home Decor,2023-06-18,83.66,3,Credit Card
+1287,Male,53,Groceries,2023-06-01,77.24,2,Cash on Delivery
+1942,Male,23,Fitness,2023-02-04,110.77,4,PayPal
+1853,Female,56,Groceries,2023-01-30,71.4,3,Debit Card
+1662,Male,59,Fashion,2023-02-26,69.53,4,PayPal
+1961,Female,29,Toys,2023-02-16,60.46,3,Cash on Delivery
+1638,Female,20,Books,2023-06-12,85.29,1,Credit Card
+1154,Male,62,Books,2023-01-19,84.25,3,Cash on Delivery
+1489,Male,35,Groceries,2023-04-24,55.01,1,Debit Card
+1385,Male,57,Beauty,2023-01-08,69.67,4,PayPal
+1985,Female,38,Groceries,2023-01-26,55.21,3,Debit Card
+1784,Male,32,Fashion,2023-04-23,53.85,4,Debit Card
+1103,Female,50,Beauty,2023-03-12,23.1,1,Debit Card
+1928,Female,52,Fashion,2023-01-30,68.07,3,PayPal
+1392,Female,43,Home Decor,2023-05-15,23.93,4,Cash on Delivery
+1810,Male,25,Toys,2023-03-08,61.12,1,Debit Card
+1245,Male,53,Books,2023-03-06,56.62,4,PayPal
+1175,Female,47,Books,2023-02-05,106.56,2,Credit Card
+1038,Male,40,Home Decor,2023-01-25,44.55,1,PayPal
+1476,Male,59,Electronics,2023-02-06,52.16,1,Credit Card
+1681,Male,61,Toys,2023-01-01,63.55,1,PayPal
+1758,Female,31,Beauty,2023-05-23,57.6,3,Cash on Delivery
+1537,Female,31,Home Decor,2023-02-06,116.08,3,Debit Card
+1866,Male,19,Beauty,2023-05-21,40.84,3,Cash on Delivery
+1817,Female,54,Groceries,2023-05-16,63.62,2,PayPal
+1920,Male,22,Fitness,2023-05-13,84.96,2,Debit Card
+1407,Male,55,Books,2023-05-08,101.44,1,Credit Card
+1524,Male,62,Beauty,2023-05-07,63.59,2,PayPal
+1827,Male,58,Fashion,2023-01-01,17.46,4,Debit Card
+1505,Female,64,Beauty,2023-06-13,70.5,1,Credit Card
+1902,Female,31,Fitness,2023-02-04,115.56,1,Credit Card
+1824,Female,56,Toys,2023-04-14,83.47,4,Cash on Delivery
+1035,Male,42,Books,2023-01-23,82.09,1,PayPal
+1684,Male,37,Groceries,2023-01-09,43.11,2,Credit Card
+1019,Male,19,Home Decor,2023-02-03,40.03,3,Debit Card
+1320,Female,56,Groceries,2023-06-23,75.54,4,Credit Card
+1775,Male,23,Fitness,2023-05-08,32.21,2,Credit Card
+1511,Female,34,Books,2023-01-04,98.44,4,Cash on Delivery
+1399,Female,42,Beauty,2023-06-07,49.6,4,Cash on Delivery
+1653,Female,45,Toys,2023-04-12,74.26,1,Debit Card
+1971,Female,19,Electronics,2023-03-16,18.43,1,Cash on Delivery
+1882,Female,52,Toys,2023-04-09,63.19,2,Credit Card
+1470,Female,54,Electronics,2023-03-13,39.42,4,Credit Card
+1142,Male,22,Fashion,2023-01-03,5.34,1,Cash on Delivery
+1091,Male,18,Toys,2023-05-22,,1,Credit Card
+1353,Female,57,Books,2023-06-22,124.23,4,Credit Card
+1833,Female,29,Electronics,2023-02-03,108.88,2,Debit Card
+1799,Male,53,Home Decor,2023-02-14,95.45,2,Cash on Delivery
+1726,Female,62,Books,2023-03-02,62.58,4,Credit Card
+1958,Female,40,Home Decor,2023-03-24,99.18,2,Cash on Delivery
+1853,Male,64,Toys,2023-05-03,111.72,1,Debit Card
+1050,Female,48,Home Decor,2023-04-12,79.1,4,Cash on Delivery
+1664,Female,28,Electronics,2023-01-16,39.47,1,Credit Card
+1697,Female,27,Books,2023-03-07,60.02,3,Cash on Delivery
+1574,Male,20,Beauty,2023-06-17,126.08,3,Credit Card
+1189,Male,31,Fitness,2023-05-25,72.76,2,Credit Card
+1124,Male,33,Electronics,2023-04-29,-24.74,3,Credit Card
+1149,Female,27,Electronics,2023-06-11,30.93,1,Debit Card
+1313,Female,46,Beauty,2023-05-04,62.27,3,Cash on Delivery
+1569,Male,27,Books,2023-05-24,106.07,1,Debit Card
+1341,Female,29,Books,2023-04-12,66.81,2,Cash on Delivery
+1304,Female,47,Groceries,2023-03-07,106.63,2,Debit Card
+1691,Female,58,Toys,2023-01-13,59.22,1,PayPal
+1681,Female,18,Home Decor,2023-04-21,16.07,3,Credit Card
+1837,Female,22,Toys,2023-06-08,,2,Credit Card
+1782,Male,37,Beauty,2023-02-03,85.35,4,Debit Card
+1053,Female,25,Toys,2023-02-08,82.86,2,PayPal
+1443,Male,60,Beauty,2023-05-16,37.35,3,Credit Card
+1612,Female,29,Books,2023-04-30,64.46,4,Cash on Delivery
+1992,Male,18,,2023-05-06,155.54,3,Debit Card
+1263,Female,37,Toys,2023-02-24,38.0,1,Credit Card
+1052,Male,45,Electronics,2023-01-27,94.82,4,Credit Card
+1571,Female,60,Fashion,2023-04-28,12.1,3,Debit Card
+1619,Male,54,Groceries,2023-02-22,100.91,4,Debit Card
+1004,Female,64,Fitness,2023-02-08,48.23,3,Cash on Delivery
+1102,Male,54,Electronics,2023-03-06,87.06,4,Cash on Delivery
+1195,Female,29,Books,2023-05-25,36.25,3,Credit Card
+1773,Male,54,Fitness,2023-06-07,83.73,1,Credit Card
+1876,Male,61,Fashion,2023-01-13,47.74,4,Debit Card
+1991,Female,45,Fashion,2023-01-21,53.55,4,Credit Card
+1883,Female,64,Home Decor,2023-05-27,88.26,4,Credit Card
+1349,Male,32,Fitness,2023-02-22,62.09,4,Debit Card
+1046,Female,23,,2023-01-19,86.41,1,Credit Card
+1866,Male,61,Electronics,2023-02-26,69.27,4,Credit Card
+1822,Male,37,Beauty,2023-01-25,77.02,2,PayPal
+1935,Male,31,Beauty,2023-01-31,88.35,1,Cash on Delivery
+1819,Female,19,,2023-03-22,64.5,2,Debit Card
+1655,Male,26,Fitness,2023-01-23,45.12,4,PayPal
+1268,Male,54,Beauty,2023-02-01,59.03,3,Cash on Delivery
+1369,Female,37,Electronics,2023-03-15,110.85,2,Cash on Delivery
+1635,Female,43,Home Decor,2023-01-10,78.49,4,Cash on Delivery
+1105,Female,46,Fitness,2023-02-23,49.65,2,PayPal
+1669,Female,18,Home Decor,2023-02-21,87.05,4,PayPal
+1658,Male,52,Fitness,2023-05-28,89.05,4,Cash on Delivery
+1656,Male,23,Home Decor,2023-06-09,90.6,4,Credit Card
+1119,Male,54,Fashion,2023-04-24,45.66,3,Credit Card
+1830,Male,22,Home Decor,2023-01-14,54.53,2,PayPal
+1786,Female,50,Beauty,2023-06-27,54.7,1,PayPal
+1603,Male,31,Fashion,2023-06-05,64.18,1,PayPal
+1057,Male,29,Home Decor,2023-04-20,91.17,1,Cash on Delivery
+1950,Female,59,Fitness,2023-02-22,83.89,1,Credit Card
+1345,Male,37,Fitness,2023-06-01,86.26,4,PayPal
+1740,Male,41,Groceries,2023-03-20,115.62,2,PayPal
+1473,Male,60,Fitness,2023-01-22,95.67,2,Debit Card
+1116,Male,51,Books,2023-01-30,70.75,3,Cash on Delivery
+1829,Male,42,Electronics,2023-01-04,39.48,2,Debit Card
+1790,Male,46,Fitness,2023-02-28,53.56,2,Credit Card
+1126,Female,56,Fashion,2023-01-08,67.15,2,Debit Card
+1392,Female,48,Groceries,2023-01-12,99.87,3,Debit Card
+1907,Male,64,,2023-04-29,74.18,1,Debit Card
+1640,Male,60,Books,2023-06-08,55.31,2,Cash on Delivery
+1057,Female,40,Beauty,2023-02-03,53.01,3,Credit Card
+1633,Male,61,Fashion,2023-03-23,72.91,3,Debit Card
+1512,Male,55,Books,2023-04-08,101.7,4,Cash on Delivery
+1750,Male,37,Beauty,2023-05-07,122.73,3,Credit Card
+1801,Female,40,Toys,2023-03-16,68.83,1,PayPal
+1095,Male,62,Toys,2023-04-15,73.66,2,Debit Card
+1637,Female,33,Fashion,2023-02-18,38.58,3,Credit Card
+1117,Male,59,Home Decor,2023-03-20,133.18,1,Debit Card
+1559,Female,25,Electronics,2023-04-03,32.97,3,PayPal
+1600,Female,38,Groceries,2023-06-03,110.15,3,Credit Card
+1487,Male,18,Electronics,2023-01-18,64.04,3,Cash on Delivery
+1236,Female,25,Books,2023-04-06,,3,Credit Card
+1884,Male,46,Beauty,2023-02-07,41.7,3,Cash on Delivery
+1896,Female,49,Electronics,2023-03-28,147.3,1,Credit Card
+1271,Male,55,Beauty,2023-03-29,81.64,2,Cash on Delivery
+1188,Male,22,Beauty,2023-02-19,75.64,2,PayPal
+1998,Female,64,Books,2023-01-08,101.6,2,PayPal
+1703,Male,39,Books,2023-06-18,55.48,2,PayPal
+1446,Male,64,Books,2023-05-14,75.06,1,Credit Card
+1580,Female,51,Electronics,2023-03-10,76.69,4,PayPal
+1789,Male,18,Toys,2023-06-21,59.64,4,Debit Card
+1860,Male,43,Books,2023-05-01,,1,PayPal
+1246,Female,60,,2023-03-05,68.44,1,Cash on Delivery
+1962,Female,27,Electronics,2023-06-06,28.41,3,Cash on Delivery
+1075,Male,47,Books,2023-06-05,65.96,3,Cash on Delivery
+1153,Male,35,Fitness,2023-05-19,82.48,3,Credit Card
+1655,Female,34,Beauty,2023-05-01,,2,Debit Card
+1434,Female,43,Groceries,2023-03-06,50.56,3,PayPal
+1996,Male,25,Books,2023-04-17,58.61,4,Debit Card
+1085,Female,64,Fashion,2023-05-27,111.64,2,Debit Card
+1696,Male,57,Beauty,2023-05-17,60.39,3,Cash on Delivery
+1284,Male,29,Beauty,2023-06-04,,2,Cash on Delivery
+1973,Male,44,Books,2023-06-11,56.55,4,Cash on Delivery
+1219,Male,25,Toys,2023-06-21,84.75,3,Credit Card
+1068,Male,42,,2023-04-10,61.61,4,Debit Card
+1046,Female,63,Toys,2023-03-23,97.62,4,Debit Card
+1093,Female,21,Books,2023-05-23,41.45,4,Credit Card
+1749,Female,50,Beauty,2023-02-20,97.29,3,Credit Card
+1957,Female,18,Groceries,2023-05-21,78.42,1,Credit Card
+1452,Male,36,Fashion,2023-03-24,55.8,3,Debit Card
+1203,Male,48,Groceries,2023-06-26,70.01,4,Debit Card
+1911,Male,33,Groceries,2023-04-22,121.02,3,Cash on Delivery
+1217,Male,31,Beauty,2023-02-25,79.14,4,Cash on Delivery
+1473,Female,22,Toys,2023-06-28,53.92,1,Debit Card
+1431,Male,58,Fashion,2023-06-14,38.86,2,Cash on Delivery
+1340,Male,43,Electronics,2023-05-25,90.16,1,Credit Card
+1550,Female,45,Fitness,2023-06-06,80.88,1,PayPal
+1611,Female,19,Beauty,2023-06-10,95.85,2,Cash on Delivery
+1288,Female,23,Books,2023-03-01,31.13,3,Debit Card
+1253,Female,26,Electronics,2023-04-30,39.83,2,Cash on Delivery
+1733,Male,50,Fitness,2023-05-18,109.41,3,Cash on Delivery
+1356,Male,58,Books,2023-06-24,84.94,3,Cash on Delivery
+1022,Female,42,Groceries,2023-01-23,91.0,4,PayPal
+1761,Male,30,Home Decor,2023-05-29,46.12,4,Credit Card
+1521,Male,26,Books,2023-01-13,45.57,2,Debit Card
+1757,Male,30,Fashion,2023-04-11,104.74,1,PayPal
+1836,Female,48,Fashion,2023-06-10,106.15,2,Debit Card
+1099,Male,58,Home Decor,2023-01-24,42.35,3,Debit Card
+1801,Female,28,Electronics,2023-04-18,36.62,4,Debit Card
+1179,Male,21,Fitness,2023-01-11,71.74,2,PayPal
+1222,Male,51,Books,2023-01-17,51.02,2,Credit Card
+1905,Male,55,Fashion,2023-06-24,50.39,4,Debit Card
+1761,Female,63,Electronics,2023-01-25,37.46,4,Credit Card
+1658,Male,21,Home Decor,2023-04-04,60.95,4,Credit Card
+1441,Female,55,Toys,2023-01-21,40.36,3,Cash on Delivery
+1607,Female,36,Beauty,2023-03-25,42.14,4,PayPal
+1768,Female,23,Toys,2023-05-20,83.95,1,PayPal
+1324,Male,51,Toys,2023-02-06,73.34,2,Cash on Delivery
+1515,Male,35,Fashion,2023-02-11,89.55,4,Cash on Delivery
+1015,Male,30,Groceries,2023-05-25,25.53,4,Credit Card
+1791,Male,58,Groceries,2023-04-11,75.3,3,Debit Card
+1335,Female,40,Home Decor,2023-02-17,137.27,3,PayPal
+1758,Female,36,Books,2023-04-13,63.83,2,Debit Card
+1257,Female,62,Groceries,2023-01-28,99.74,1,Debit Card
+1496,Male,28,Toys,2023-02-10,99.48,2,Cash on Delivery
+1987,Female,18,,2023-04-09,100.96,4,Debit Card
+1895,Male,41,Toys,2023-02-16,80.0,1,Credit Card
+1159,Female,24,Fitness,2023-05-26,91.98,1,Cash on Delivery
+1474,Male,42,Fashion,2023-04-15,95.97,1,Debit Card
+1851,Male,38,Fashion,2023-05-04,94.06,1,Cash on Delivery
+1663,Female,32,Books,2023-01-13,41.48,2,Credit Card
+1907,Female,18,Groceries,2023-05-21,23.78,3,Credit Card
+1689,Female,29,Groceries,2023-04-10,28.39,3,Debit Card
+1674,Female,24,Beauty,2023-01-31,66.9,4,Cash on Delivery
+1379,Male,32,Electronics,2023-05-10,92.82,3,Debit Card
+1544,Female,38,Fitness,2023-01-16,41.87,3,Debit Card
+1928,Female,36,Fashion,2023-05-17,102.72,3,Cash on Delivery
+1956,Female,46,Fitness,2023-03-14,59.93,3,Debit Card
+1690,Male,42,Fashion,2023-06-15,60.22,4,Credit Card
+1426,Male,50,Fitness,2023-02-23,49.92,2,Cash on Delivery
+1612,Female,49,Home Decor,2023-04-10,18.46,1,Cash on Delivery
+1267,Male,52,Toys,2023-04-19,81.88,3,Cash on Delivery
+1834,Female,61,Fashion,2023-03-28,126.38,2,Cash on Delivery
+1576,Male,55,Fitness,2023-06-22,73.12,3,Debit Card
+1416,Male,43,Groceries,2023-06-11,19.48,3,Debit Card
+1167,Male,28,,2023-05-17,98.41,1,Credit Card
+1841,Male,52,Home Decor,2023-01-08,26.26,1,PayPal
+1042,Female,25,Home Decor,2023-01-07,38.73,1,PayPal
+1555,Female,63,Electronics,2023-02-05,67.85,3,Credit Card
+1284,Female,31,Fitness,2023-01-18,78.69,3,PayPal
+1396,Male,27,Groceries,2023-01-03,44.74,3,Credit Card
+1011,Female,19,Books,2023-01-28,66.68,1,Debit Card
+1606,Female,63,Electronics,2023-03-11,96.45,4,Cash on Delivery
+1301,Female,26,Fitness,2023-06-21,100.57,2,Cash on Delivery
+1897,Male,20,Electronics,2023-05-29,112.54,4,Debit Card
+1252,Male,38,Electronics,2023-01-28,132.28,3,Cash on Delivery
+1498,Male,43,Fashion,2023-02-23,99.3,3,Cash on Delivery
+1753,Female,25,Fitness,2023-03-06,68.5,4,PayPal
+1034,Female,19,Books,2023-04-10,100.78,3,Debit Card
+1726,Female,23,Toys,2023-01-21,89.0,2,PayPal
+1848,Male,45,Fashion,2023-01-13,90.19,3,PayPal
+1089,Male,46,Electronics,2023-02-26,80.32,2,Cash on Delivery
+1775,Female,43,Toys,2023-02-18,47.64,4,Cash on Delivery
+1604,Male,42,Beauty,2023-04-28,44.16,4,Debit Card
+1921,Male,29,Toys,2023-02-23,72.09,3,Cash on Delivery
+1969,Male,22,Electronics,2023-05-18,79.47,2,Cash on Delivery
+1601,Male,51,Electronics,2023-02-22,54.62,3,Debit Card
+1417,Female,54,Groceries,2023-02-13,87.7,1,Cash on Delivery
+1114,Male,32,Fitness,2023-02-16,137.42,1,PayPal
+1616,Male,61,Fitness,2023-02-22,22.67,1,Debit Card
+1902,Male,53,Fashion,2023-03-15,92.47,1,Cash on Delivery
+1195,Male,32,Books,2023-02-15,73.02,3,Credit Card
+1825,Female,60,Fashion,2023-01-13,88.52,1,Debit Card
+1500,Female,40,Home Decor,2023-06-14,62.08,2,Debit Card
+1625,Male,23,Electronics,2023-04-12,70.62,4,Credit Card
+1492,Male,63,Toys,2023-01-24,78.89,4,Cash on Delivery
+1074,Male,61,Beauty,2023-01-02,65.95,1,Cash on Delivery
+1412,Male,60,Electronics,2023-03-22,29.38,1,Debit Card
+1375,Male,62,Electronics,2023-04-10,67.98,1,Debit Card
+1419,Male,38,Fashion,2023-05-22,32.51,3,Cash on Delivery
+1728,Female,40,Beauty,2023-05-18,94.6,4,Cash on Delivery
+1276,Male,60,Beauty,2023-06-12,19.03,1,PayPal
+1760,Female,33,Beauty,2023-06-02,105.86,2,Debit Card
+1675,Female,64,Fashion,2023-05-11,87.89,1,Debit Card
+1393,Male,32,Electronics,2023-04-21,88.0,4,Credit Card
+1868,Female,42,Fashion,2023-04-12,10.07,1,PayPal
+1456,Female,53,Fitness,2023-01-17,65.14,4,Cash on Delivery
+1919,Female,28,Fitness,2023-01-12,109.61,1,PayPal
+1191,Female,32,Fashion,2023-04-26,59.44,2,Cash on Delivery
+1738,Female,21,Beauty,2023-01-24,42.66,1,Cash on Delivery
+1688,Female,38,Groceries,2023-01-29,55.9,2,PayPal
+1098,Male,30,Electronics,2023-06-20,72.95,2,Debit Card
+1547,Female,39,Fashion,2023-06-02,49.46,1,Cash on Delivery
+1977,Female,36,Fashion,2023-05-02,112.01,2,PayPal
+1998,Female,51,Fashion,2023-03-31,73.06,3,Credit Card
+1095,Male,31,Groceries,2023-03-06,58.33,1,PayPal
+1663,Female,21,Groceries,2023-03-25,35.96,1,Credit Card
+1662,Male,63,Home Decor,2023-04-29,89.53,2,Cash on Delivery
+1189,Female,44,Fitness,2023-06-05,88.85,2,PayPal
+1735,Male,46,Toys,2023-01-16,51.23,1,PayPal
+1036,Male,64,Beauty,2023-06-24,7.91,3,Credit Card
+1779,Female,45,Books,2023-04-14,87.32,2,PayPal
+1368,Female,52,Groceries,2023-04-02,69.4,2,PayPal
+1694,Male,25,Toys,2023-01-27,85.08,4,Cash on Delivery
+1524,Female,33,Groceries,2023-06-19,133.72,3,PayPal
+1278,Male,59,Beauty,2023-06-24,74.2,3,Debit Card
+1216,Male,53,Books,2023-06-11,59.58,1,Credit Card
+1866,Male,47,Home Decor,2023-06-14,40.58,3,PayPal
+1872,Male,35,Fashion,2023-05-14,65.63,1,Credit Card
+1797,Male,19,Home Decor,2023-05-15,79.82,4,Credit Card
+1272,Female,30,Groceries,2023-06-02,76.6,3,Credit Card
+1880,Male,21,Home Decor,2023-02-02,126.7,2,PayPal
+1061,Male,43,Toys,2023-02-24,89.97,4,PayPal
+1595,Female,42,Electronics,2023-01-07,70.96,1,Credit Card
+1879,Male,47,,2023-02-26,53.8,4,Debit Card
+1728,Female,28,Groceries,2023-05-06,83.0,1,Credit Card
+1341,Female,24,Toys,2023-01-12,47.79,4,Debit Card
+1396,Female,48,Fitness,2023-01-16,80.39,1,Credit Card
+1698,Male,61,Books,2023-02-12,89.62,3,Cash on Delivery
+1018,Male,27,Fashion,2023-04-27,68.51,2,Credit Card
+1176,Male,56,Toys,2023-05-15,56.09,1,Credit Card
+1611,Female,30,Books,2023-04-21,9.44,4,PayPal
+1395,Male,48,Beauty,2023-02-20,109.32,1,Debit Card
+1444,Female,24,Books,2023-06-09,87.1,1,Cash on Delivery
+1232,Male,59,Beauty,2023-03-16,87.83,1,Debit Card
+1914,Female,59,Toys,2023-01-08,28.16,4,Cash on Delivery
+1075,Male,53,Groceries,2023-02-14,116.4,2,Credit Card
+1264,Male,37,Groceries,2023-02-28,61.04,3,PayPal
+1454,Male,21,Fitness,2023-05-12,66.34,2,PayPal
+1795,Female,24,Toys,2023-04-14,42.92,1,Debit Card
+1717,Female,18,Beauty,2023-06-06,21.39,4,PayPal
+1734,Male,61,Books,2023-06-06,109.72,2,Debit Card
+1383,Male,62,Books,2023-04-08,113.6,1,Debit Card
+1563,Female,59,Beauty,2023-06-05,70.03,3,Cash on Delivery
+1850,Female,64,,2023-03-20,54.62,3,Debit Card
+1505,Female,30,Fitness,2023-05-04,63.69,3,Cash on Delivery
+1366,Male,39,Electronics,2023-06-21,64.51,1,PayPal
+1143,Female,38,Groceries,2023-01-04,39.0,4,Debit Card
+1884,Male,39,Fashion,2023-03-31,66.23,2,Debit Card
+1068,Female,45,Books,2023-04-14,79.59,3,Credit Card
+1098,Male,26,Fashion,2023-05-17,105.54,1,Debit Card
+1395,Female,43,Electronics,2023-04-29,75.43,1,Debit Card
+1024,Female,26,Toys,2023-05-13,27.71,2,Credit Card
+1947,Female,32,Fashion,2023-02-25,85.61,3,Credit Card
+1890,Female,27,Electronics,2023-04-06,67.32,1,PayPal
+1468,Female,41,Groceries,2023-06-27,116.11,2,Debit Card
+1483,Male,59,Beauty,2023-03-16,117.88,4,PayPal
+1564,Female,25,Home Decor,2023-05-23,118.93,4,PayPal
+1150,Female,41,Groceries,2023-02-01,58.15,4,Credit Card
+1143,Female,33,Books,2023-01-28,134.7,3,Cash on Delivery
+1568,Male,43,Electronics,2023-01-22,85.53,2,PayPal
+1038,Female,44,Fashion,2023-01-17,123.79,2,Cash on Delivery
+1108,Male,54,Books,2023-02-28,59.92,1,Debit Card
+1692,Female,21,Home Decor,2023-03-31,66.04,1,Credit Card
+1041,Female,41,Beauty,2023-04-16,83.22,1,Debit Card
+1185,Male,36,Toys,2023-01-26,79.56,2,Debit Card
+1934,Female,53,Books,2023-01-25,112.64,1,Credit Card
+1397,Male,56,Toys,2023-05-18,68.04,2,Debit Card
+1222,Male,27,Electronics,2023-02-14,109.94,2,Credit Card
+1633,Female,42,Home Decor,2023-03-24,96.97,4,Cash on Delivery
+1132,Male,35,Fashion,2023-01-11,68.6,1,Debit Card
+1162,Female,36,Home Decor,2023-04-14,94.64,4,Credit Card
+1214,Female,53,Home Decor,2023-03-09,60.8,3,PayPal
+1732,Male,27,Fitness,2023-04-05,145.51,3,Debit Card
+1234,Male,50,Home Decor,2023-06-05,-4.93,3,Cash on Delivery
+1842,Male,22,Home Decor,2023-03-06,95.19,2,Credit Card
+1657,Male,64,Groceries,2023-02-18,22.06,2,Debit Card
+1750,Female,52,Books,2023-06-24,68.23,2,Debit Card
+1587,Female,61,Fashion,2023-02-21,72.43,1,Debit Card
+1008,Male,51,Groceries,2023-04-12,120.23,4,Cash on Delivery
+1073,Female,50,Groceries,2023-02-26,54.24,2,Credit Card
+1953,Female,38,Books,2023-02-16,114.24,4,PayPal
+1491,Female,34,Books,2023-06-08,39.64,4,PayPal
+1912,Female,39,Electronics,2023-06-23,115.4,4,PayPal
+1252,Male,54,Books,2023-01-26,60.77,1,Credit Card
+1229,Male,32,Fitness,2023-04-24,77.2,1,PayPal
+1518,Female,52,Fitness,2023-01-05,,3,Cash on Delivery
+1173,Male,45,Groceries,2023-03-25,113.47,3,Credit Card
+1652,Male,24,Toys,2023-02-21,107.63,4,Debit Card
+1167,Male,49,Electronics,2023-04-15,88.31,3,Cash on Delivery
+1169,Female,28,Toys,2023-02-23,,4,Debit Card
+1392,Female,27,Toys,2023-06-10,53.55,1,PayPal
+1945,Female,26,Groceries,2023-06-27,44.14,1,Cash on Delivery
+1794,Male,31,Beauty,2023-06-15,,1,Credit Card
+1633,Female,30,Groceries,2023-06-04,112.84,2,Cash on Delivery
+1193,Female,42,Fashion,2023-01-15,65.17,4,Debit Card
+1516,Male,19,Fashion,2023-03-02,64.85,1,Credit Card
+1028,Female,52,Books,2023-05-02,119.88,4,Cash on Delivery
+1164,Female,24,Books,2023-01-21,60.72,3,Cash on Delivery
+1421,Male,38,Beauty,2023-02-15,49.79,3,Cash on Delivery
+1338,Male,35,Books,2023-05-14,68.26,1,Cash on Delivery
+1647,Male,20,Fashion,2023-02-07,41.02,4,Credit Card
+1495,Female,59,Toys,2023-03-03,85.33,1,Debit Card
+1364,Female,56,Groceries,2023-03-27,63.79,3,Cash on Delivery
+1832,Female,58,Home Decor,2023-03-19,59.78,1,Credit Card
+1341,Male,28,Fitness,2023-02-15,57.18,4,Debit Card
+1499,Male,56,Home Decor,2023-05-21,71.81,3,Cash on Delivery
+1656,Female,41,Home Decor,2023-01-03,77.5,2,Debit Card
+1510,Female,63,Fashion,2023-01-06,59.4,3,Debit Card
+1326,Male,36,Home Decor,2023-04-03,64.24,2,Credit Card
+1216,Male,21,,2023-01-08,72.55,1,Debit Card
+1300,Male,43,Beauty,2023-06-21,69.53,1,Credit Card
+1131,Male,55,Electronics,2023-04-18,75.93,4,Cash on Delivery
+1803,Female,59,Books,2023-06-10,54.7,2,Debit Card
+1069,Male,49,Electronics,2023-03-16,105.14,1,Debit Card
+1251,Female,56,Toys,2023-03-18,77.9,2,PayPal
+1414,Female,62,Groceries,2023-02-19,59.88,1,Cash on Delivery
+1786,Female,63,Groceries,2023-01-11,85.33,3,Cash on Delivery
+1444,Male,53,Fitness,2023-04-05,72.77,1,PayPal
+1875,Male,57,Groceries,2023-06-05,22.99,4,PayPal
+1181,Male,54,Books,2023-03-11,85.23,3,Credit Card
+1166,Male,50,Groceries,2023-06-18,44.41,4,Credit Card
+1090,Female,53,Home Decor,2023-01-16,103.03,3,Debit Card
+1713,Male,20,Fitness,2023-03-09,67.75,2,Debit Card
+1857,Male,26,,2023-04-09,98.4,4,Debit Card
+1530,Female,25,Beauty,2023-02-17,56.09,1,Debit Card
+1038,Male,50,Beauty,2023-03-05,77.1,2,Credit Card
+1125,Female,23,Beauty,2023-03-31,111.31,1,Cash on Delivery
+1450,Female,58,Beauty,2023-03-17,66.93,3,Debit Card
+1172,Female,56,Home Decor,2023-05-19,57.28,3,Cash on Delivery
+1652,Female,21,Groceries,2023-04-11,94.65,1,Debit Card
+1753,Female,30,Electronics,2023-03-30,94.07,1,PayPal
+1219,Female,19,Books,2023-01-18,58.54,2,Debit Card
+1637,Female,22,Home Decor,2023-01-19,15.44,1,Debit Card
+1057,Female,61,Beauty,2023-02-24,56.7,4,Debit Card
+1659,Male,44,Toys,2023-04-12,95.32,4,Credit Card
+1475,Male,49,Groceries,2023-04-28,51.75,1,PayPal
+1455,Male,38,Electronics,2023-06-03,74.67,4,Debit Card
+1828,Male,25,Toys,2023-05-14,55.28,1,Debit Card
+1894,Female,55,Fitness,2023-01-04,17.03,2,Cash on Delivery
+1360,Male,25,Toys,2023-04-18,54.74,4,PayPal
+1934,Female,20,Fitness,2023-04-25,95.19,4,Debit Card
+1000,Male,61,Fitness,2023-01-29,3.89,1,Cash on Delivery
+1386,Male,20,Beauty,2023-02-28,82.57,4,Cash on Delivery
+1972,Male,39,Fitness,2023-05-05,39.42,3,Credit Card
+1347,Female,23,Fashion,2023-04-08,93.25,2,Cash on Delivery
+1189,Male,19,Books,2023-01-17,96.43,2,Debit Card
+1504,Female,40,Books,2023-04-17,69.84,4,Credit Card
+1190,Female,61,Beauty,2023-02-12,69.91,4,Credit Card
+1507,Male,19,Fashion,2023-03-21,50.81,3,Debit Card
+1368,Male,55,Toys,2023-06-11,34.63,3,PayPal
+1408,Male,34,Home Decor,2023-01-08,125.94,4,Cash on Delivery
+1823,Female,52,Toys,2023-05-21,49.05,4,Credit Card
+1928,Male,51,Groceries,2023-04-16,122.03,3,PayPal
+1933,Female,40,,2023-01-08,49.21,1,Debit Card
+1116,Female,47,Fitness,2023-04-06,90.76,3,Cash on Delivery
+1133,Male,25,Electronics,2023-04-04,40.87,1,Cash on Delivery
+1057,Male,39,Home Decor,2023-03-06,90.7,2,Credit Card
+1555,Female,61,Electronics,2023-06-20,,2,Cash on Delivery
+1684,Female,53,Books,2023-02-08,65.62,3,Cash on Delivery
+1671,Female,22,Electronics,2023-03-22,93.3,1,Cash on Delivery
+1172,Male,30,Books,2023-03-25,60.93,3,Cash on Delivery
+1828,Female,46,Fashion,2023-03-29,32.16,3,Debit Card
+1814,Male,48,Fashion,2023-03-27,97.84,1,PayPal
+1148,Female,64,Beauty,2023-04-03,40.62,3,Debit Card
+1079,Female,33,Beauty,2023-03-27,90.5,2,Debit Card
+1885,Male,59,Fitness,2023-02-13,104.19,4,Credit Card
+1212,Female,47,Home Decor,2023-05-17,63.74,4,Cash on Delivery
+1202,Male,33,Fitness,2023-06-14,110.47,3,Debit Card
+1763,Male,29,Books,2023-03-15,89.45,1,Cash on Delivery
+1228,Female,34,Fitness,2023-02-05,54.12,1,Debit Card
+1675,Male,33,Electronics,2023-04-11,117.04,2,Debit Card
+1226,Male,29,Books,2023-06-05,40.75,1,Credit Card
+1658,Female,25,Beauty,2023-06-19,63.7,1,PayPal
+1531,Male,37,Fashion,2023-06-20,68.81,2,PayPal
+1440,Male,20,Beauty,2023-06-19,93.16,3,Debit Card
+1401,Male,33,Home Decor,2023-04-14,108.46,4,Credit Card
+1046,Female,47,Books,2023-03-07,106.58,2,Cash on Delivery
+1232,Male,62,Books,2023-02-24,81.71,3,Cash on Delivery
+1304,Female,40,Electronics,2023-06-25,66.59,2,Debit Card
+1525,Female,45,Home Decor,2023-04-01,20.22,3,PayPal
+1142,Male,57,Fashion,2023-01-22,35.58,2,Credit Card
+1414,Male,22,Toys,2023-04-11,128.0,3,PayPal
+1512,Male,37,Books,2023-06-04,19.92,2,Cash on Delivery
+1372,Female,57,Books,2023-05-01,51.47,3,PayPal
+1565,Male,61,Electronics,2023-04-03,109.34,2,Cash on Delivery
+1885,Male,18,Fitness,2023-04-18,81.29,4,Credit Card
+1258,Male,47,Groceries,2023-05-21,102.84,4,Credit Card
+1655,Male,38,Fashion,2023-06-22,91.28,1,Debit Card
+1470,Male,37,Beauty,2023-01-10,119.09,3,Debit Card
+1952,Female,23,,2023-01-09,83.86,2,PayPal
+1970,Female,39,Books,2023-06-04,94.9,3,Credit Card
+1011,Male,35,Books,2023-02-03,53.27,4,Credit Card
+1329,Male,25,Beauty,2023-05-09,92.59,3,Debit Card
+1735,Male,56,Fashion,2023-06-09,63.12,2,Cash on Delivery
+1783,Male,49,Groceries,2023-03-30,61.41,3,PayPal
+1967,Female,50,Fitness,2023-04-03,101.84,2,PayPal
+1357,Male,33,Books,2023-03-12,102.05,4,Debit Card
+1971,Female,29,Groceries,2023-03-08,125.65,4,Credit Card
+1407,Female,55,Fashion,2023-05-28,123.7,4,Debit Card
+1667,Male,51,Beauty,2023-04-27,102.52,1,Debit Card
+1372,Female,31,Electronics,2023-04-04,23.39,4,Debit Card
+1007,Female,53,,2023-06-12,129.83,3,Debit Card
+1121,Female,50,Home Decor,2023-04-09,102.54,1,Cash on Delivery
+1347,Female,40,Books,2023-04-23,52.02,4,Cash on Delivery
+1675,Male,62,Fashion,2023-04-13,96.87,3,Credit Card
+1089,Male,19,Electronics,2023-04-01,43.88,3,Debit Card
+1647,Female,58,Home Decor,2023-03-31,93.56,3,Cash on Delivery
+1697,Male,38,Toys,2023-01-17,35.51,2,Credit Card
+1315,Male,19,Fashion,2023-01-18,50.75,1,Debit Card
+1177,Male,44,Fashion,2023-06-22,96.3,3,PayPal
+1539,Male,26,Home Decor,2023-04-26,107.19,2,Cash on Delivery
+1731,Male,18,Electronics,2023-04-03,84.76,4,Credit Card
+1868,Female,28,Toys,2023-04-01,66.41,3,PayPal
+1040,Male,20,Groceries,2023-03-23,11.55,2,Debit Card
+1739,Male,40,Groceries,2023-03-09,68.73,3,Debit Card
+1703,Male,43,Beauty,2023-04-24,91.0,1,Debit Card
+1922,Male,21,Electronics,2023-01-01,65.5,1,Cash on Delivery
+1501,Female,35,Fitness,2023-02-27,74.32,4,Credit Card
+1958,Female,23,Books,2023-06-03,69.43,3,PayPal
+1144,Female,52,Home Decor,2023-04-19,65.35,2,Credit Card
+1200,Female,39,Beauty,2023-05-28,77.28,4,Cash on Delivery
+1928,Male,60,Toys,2023-04-26,66.82,3,Credit Card
+1723,Female,32,Home Decor,2023-03-28,118.3,4,Cash on Delivery
+1460,Male,39,Home Decor,2023-01-10,8.81,2,Debit Card
+1731,Male,54,Electronics,2023-02-28,58.62,4,PayPal
+1751,Male,59,Books,2023-02-10,48.89,4,Debit Card
+1924,Male,29,Fitness,2023-04-15,81.57,4,Credit Card
+1908,Male,64,Groceries,2023-05-13,77.31,3,Debit Card
+1557,Female,59,Fashion,2023-05-02,123.67,2,PayPal
+1546,Female,55,Fashion,2023-05-25,133.53,1,Debit Card
+1252,Female,35,Home Decor,2023-01-22,51.81,3,PayPal
+1389,Female,62,Groceries,2023-04-08,75.02,1,PayPal
+1593,Male,52,Groceries,2023-06-18,80.89,1,Debit Card
+1882,Female,47,Books,2023-03-09,51.07,3,Cash on Delivery
+1255,Male,41,Toys,2023-05-19,93.85,3,Credit Card
+1708,Female,59,Toys,2023-02-25,67.81,2,Cash on Delivery
+1814,Male,47,Beauty,2023-06-28,42.97,2,Cash on Delivery
+1920,Male,31,Electronics,2023-05-29,66.61,4,Debit Card
+1449,Female,23,Books,2023-04-09,45.07,1,Credit Card
+1009,Male,20,Books,2023-03-17,106.1,2,Credit Card
+1823,Male,33,Electronics,2023-01-26,132.05,4,Cash on Delivery
+1797,Female,24,Groceries,2023-04-25,82.34,2,Debit Card
+1241,Male,31,Toys,2023-05-27,78.34,3,Credit Card
+1250,Female,26,Toys,2023-04-19,79.57,2,Cash on Delivery
